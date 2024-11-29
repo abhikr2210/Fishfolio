@@ -1,4 +1,4 @@
-# Fishfolio - Pisciculture Monitoring Application
+# Fishfolio -  IoT Enabled Pisciculture Monitoring Application
 
 Fishfolio is an Android-based application designed for real-time monitoring and management of fish tanks. It integrates with sensors to collect vital data, such as water quality and temperature, and uploads the data to Firebase for synchronization. The app ensures that users receive immediate alerts if dangerous conditions are detected, ensuring the health and safety of the aquatic life in the tank.
 
