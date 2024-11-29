@@ -22,6 +22,20 @@ Fishfolio is an Android-based application designed for real-time monitoring and 
 
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/f67d0b45-0e39-4d59-8195-7549c7ab6f54" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/5f503b5e-e818-44df-9a81-f64906e6afe3" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/c61e55a5-cf52-4ff1-bdac-edac791496ff" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/b99013b2-835a-493e-9288-8f3229f19e9c" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/fefe5651-08db-4951-8046-dbfcc8eaaa19" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/bc7a2594-9113-46ea-8fa1-537f07ea6376" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/1440ebd8-440b-45a8-8d2b-9a45bb807761" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/6593849e-fbc2-4c12-8d9f-25c57abc7ed3" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/e500ae19-a059-4e5b-97d6-e05c50a1bc5a" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/b65cd161-364e-4b00-a56b-348fd753aef4" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/194d07cb-ed0b-458c-9649-320471e2b27d" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/5fd0e935-b29b-4273-9e1a-edd05234d2b2" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/9734ad59-bf59-47df-a1e3-4eb0bc194b35" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/c7b3f52a-717b-4db2-875a-3a476ce44972" width="200" height="400">
 
 ## How to Run the Project
 
